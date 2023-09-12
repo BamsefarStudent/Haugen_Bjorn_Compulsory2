@@ -76,13 +76,13 @@ int main()
 		case 6:
 			MakeLists();
 
-			MultiplyPolynomials(polynomialList1, polynomialList2);
+			AddPolynomials(polynomialList1, polynomialList2);
 
 			break;
 		case 7:
 			MakeLists();
 
-			AddPolynomials(polynomialList1, polynomialList2);
+			MultiplyPolynomials(polynomialList1, polynomialList2);
 
 			break;
 
