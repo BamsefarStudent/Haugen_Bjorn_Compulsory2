@@ -1,1 +1,2 @@
 C:\Users\bjorn\source\repos\Haugen_Bjorn_Compulsory2\x64\Debug\Haugen_Bjorn_Compulsory2.exe
+C:\Users\bjorn\source\repos\Haugen_Bjorn_Compulsory2\Haugen_Bjorn_Compulsory2\x64\Debug\Haugen_Bjorn_Compulsory2.exe
