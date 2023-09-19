@@ -66,6 +66,11 @@ int main()
 				std::cout << "ERROR! The number cannot be negative!";
 				break;
 			}
+			else if (i > 20)
+			{
+				std::cout << "ERROR! The computer can only give an accurate answer for numbers between 0-20";
+				break;
+			}
 
 			f = Factorial(i);
 
